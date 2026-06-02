@@ -1,1 +1,27 @@
- 
+Chapter 2 - Assignment 2-1
+
+I completed the exercises as instructed.
+
+Program 1: InvoiceApp.java
+- Created a console application that calculates invoice totals with discounts.
+- Uses Scanner to get user input for subtotal.
+- Uses if/else statements to determine discount (20% if >= $200, 10% if >= $100, 0% otherwise).
+- Uses while loop to allow multiple calculations until user chooses to quit.
+- Displays formatted results using string concatenation.
+
+Program 2: TestScoreApp.java
+- Created a separate application that accepts multiple test scores.
+- Uses while loop to keep accepting scores until 999 is entered.
+- Calculates and displays score count, total, and average.
+
+Both programs demonstrate key concepts from Chapter 2:
+- Variables (int, double)
+- if/else statements
+- while loops
+- Scanner class for input
+- Proper class and variable naming
+- Comments and code structure
+
+All code compiles and runs correctly without errors.
+
+GitHub Repository Link:https://github.com/nevcas/java-chapter2
